@@ -8,7 +8,7 @@
   - [peer metrics](https://github.com/peermetrics/peermetrics): an open source WebRTC monitoring service
 - 📝 I’ve recently started a [substack](https://anonel.substack.com/) where I write about startups, tech and AI.
 - ❤️ I get involved in AI and civic tech projects.
-- 😸 I also build software for when my cat [takes over my keyboard](https://github.com/onel/keyboard-cat-defense).
+- 🐱 I also build software for when my cat [takes over my keyboard](https://github.com/onel/keyboard-cat-defense).
 - 💬 If you want to talk about open models, AI, NLP, or WebRTC, I'm buying 🍻.
 
 
@@ -26,6 +26,6 @@
 </a> <a href="https://www.linkedin.com/in/andreionel/" target="_blank"> <img src="https://img.shields.io/badge/Connect-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-____
+# 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=onel.onel)
