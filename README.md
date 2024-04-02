@@ -26,4 +26,6 @@
 </a> <a href="https://www.linkedin.com/in/andreionel/" target="_blank"> <img src="https://img.shields.io/badge/Connect-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+____
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=onel.onel)
