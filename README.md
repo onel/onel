@@ -1,7 +1,6 @@
 ## 👋 Hi, Andrei here
 
 
-
 ### What am I up to?
 
 - 🛠️ I’m currently working on:
@@ -18,6 +17,8 @@
 - [Why we'll all be fine with open models](https://anonel.substack.com/p/why-we-will-all-be-fine-with-open-models)
 - [Case-study: sharing home-cooked dinners](https://anonel.substack.com/p/case-study-sharing-home-cooked-dinners)
 
+### 🗣️ Talks
+- **Hey, can you hear me?** The most common WebRTC issues we're still facing today. CommCon London 2024
 
 ### 📢 Let's stay in touch
 
