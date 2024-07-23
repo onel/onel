@@ -1,4 +1,4 @@
-## 👋 Hi, Andrei here
+## 👋 Hi, I'm Andrei
 
 
 ### What am I up to?
