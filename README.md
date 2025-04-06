@@ -4,16 +4,17 @@
 ### What am I up to?
 
 - 🛠️ I’m currently working on:
-  - [peer metrics](https://github.com/peermetrics/peermetrics): an open source WebRTC monitoring service
+  - [akmanu](https://askmanu.co): an AI code copilot for developers
 - 📝 I’ve recently started a [substack](https://anonel.substack.com/) where I write about startups, tech and AI.
 - ❤️ I get involved in AI and civic tech projects.
 - 🐱 I also build software for when my cat [takes over my keyboard](https://github.com/onel/keyboard-cat-defense).
-- 💬 If you want to talk about open models, AI, NLP, or WebRTC, I'm buying 🍻.
+- 💬 If you want to talk about open models, AI or RAG I'm buying 🍻.
 
 
 
 ### 📚 Latest Blog posts
-
+- [Documentation is more important than tests](https://anonel.substack.com/p/documentation-is-more-important-than)
+- [Striving for self-driving on Model T](https://anonel.substack.com/p/striving-for-self-driving-on-model)
 - [Why we'll all be fine with open models](https://anonel.substack.com/p/why-we-will-all-be-fine-with-open-models)
 - [Case-study: sharing home-cooked dinners](https://anonel.substack.com/p/case-study-sharing-home-cooked-dinners)
 
