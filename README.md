@@ -4,7 +4,7 @@
 ### What am I up to?
 
 - 🛠️ I’m currently working on:
-  - [akmanu](https://askmanu.co): an AI code copilot for developers
+  - [askmanu](https://askmanu.co): an AI code copilot for developers
 - 📝 I’ve recently started a [substack](https://anonel.substack.com/) where I write about startups, tech and AI.
 - ❤️ I get involved in AI and civic tech projects.
 - 🐱 I also build software for when my cat [takes over my keyboard](https://github.com/onel/keyboard-cat-defense).
